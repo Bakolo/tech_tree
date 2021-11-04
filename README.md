@@ -5,3 +5,7 @@
   * strace
   * gdb(coredump)
   * valgrind
+
+* python_GUI:
+  * Tk
+  * Kivy
